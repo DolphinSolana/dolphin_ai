@@ -1,0 +1,51 @@
+{
+  "project_name": "Dolphin Solana (DOLPHIN)",
+  "mission": "Fun + useful meme coin powered by AI. Community-first with NFTs, DAO, and dynamic content.",
+  "chain": "Solana (mainnet)",
+  "supply": "77,777,777.7 DOLPHIN total",
+  "burn": "≈12% burned from initial supply",
+  "presale": {
+    "platform": "Smithii Tools (official listing)",
+    "date": "15 Oct 2025",
+    "reserved_percent": "30% of total supply",
+    "notes": "Only trust pinned links in official channels."
+  },
+  "airdrop": {
+    "activity_reward": "$5 in DOLPHIN for active month",
+    "invite_reward": "$0.5 per quality invite",
+    "anti_bot": "no bots/duplicates; manual checks"
+  },
+  "nft": {
+    "vision": "AI-generated dolphin art (fun + collectible)",
+    "utility": [
+      "Community roles",
+      "Boosts in airdrop/allowlist",
+      "Access to AI features"
+    ],
+    "market": "List after presale"
+  },
+  "dao": {
+    "goal": "Creative DAO for proposals, bounties, and treasury oversight",
+    "voting": "Token/NFT-gated voting; monthly transparent reports"
+  },
+  "safety": [
+    "Never share seed/private keys.",
+    "Only use links from website/announcements/pinned.",
+    "Beware of DMs and fake support."
+  ],
+  "links": {
+    "website": "https://taplink.cc/dolphinmeme/",
+    "x": "https://x.com/DolphinSolana24",
+    "telegram_chat": "https://t.me/DolphineSolana2",
+    "telegram_ann": "https://t.me/DolphinSolana1",
+    "discord": "https://discord.gg/JyupxNjPDH",
+    "tiktok": "https://www.tiktok.com/@dolphinsolana",
+    "instagram": "https://www.instagram.com/dolphinsolana",
+    "presale_list": "https://tools.smithii.io/launches-list"
+  },
+  "contract": {
+    "ca_status": "To be published after presale (15 Oct 2025).",
+    "note": "Until then, CA claims are fake—report scams."
+  },
+  "tone": "Friendly, concise, community-focused. Answer in the user's language."
+}
